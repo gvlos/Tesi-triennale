@@ -1,11 +1,7 @@
 # Tesi-triennale
-Bachelor's thesis, Computer Science and Automation Engineering
-Polytechnic University of Bari, Italy
+Bachelor's thesis, Computer Science and Automation Engineering. Polytechnic University of Bari, Italy.
 
-The thesis is only available in Italian
-
-
-Alternatively, refer to the publication:
+The thesis is only available in Italian. Alternatively, refer to the publication:
 
 <b>[Combined Color Semantics and Deep Learning for the Automatic Detection of Dolphin Dorsal Fins](https://doi.org/10.3390/electronics9050758)</b>
 
@@ -14,6 +10,6 @@ Maglietta, R.
 
 <i>Electronics 2020, 9, 758</i>
 
-
+<br>
 
 Write to gvlosapio@gmail.com for more details.
